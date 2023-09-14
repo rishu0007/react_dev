@@ -1,8 +1,12 @@
-
+import Rishu from './Rishu'
 function App() {
 
   return (
-    <h1>Hello World from Rishu using Vite</h1>
+    <>
+    <Rishu/>
+    <p>This is a paragraph</p>
+
+    </>
   )
 }
 
