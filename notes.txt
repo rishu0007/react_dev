@@ -1,0 +1,20 @@
+Props : they allow us to pass dynamic data througth react components
+or , 
+    they are just arguements that we pass into react components
+    they are passed via attributes.
+
+******************************************************************************************
+
+State : state in react is a plane javascript object used by react to 
+        to represent a piece of information about the component's current situation
+
+       => It is completly managed by compnent itself
+
+**********************************************************************************************
+
+** MOST IMPORTANT RULE OF REACT **
+ => Never nodify the state manually
+ => Never mutate the state
+ => React states can only be changed using its setter function
+
+*************************************************************************************
